@@ -1,0 +1,23 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # runs every Sunday
+  workflow_dispatch:      # lets you run manually
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # allow workflow to push changes
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README with Credly badges
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: "victor-deliverer"
+          README_FILE: "README.md"
+
+
