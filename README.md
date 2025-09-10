@@ -11,6 +11,7 @@
 
 ## 🎓 Certifications & Badges
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/58a7c176-27bd-4b9c-b25f-d2a173a2613c" title="AWS Educate Getting Started with Networking"><img src="https://images.credly.com/size/80x80/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" alt="AWS Educate Getting Started with Networking" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ba5362b5-8a95-40fd-bb19-fbb51a5b262d" title="AWS Educate Getting Started with Compute"><img src="https://images.credly.com/size/80x80/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="AWS Educate Getting Started with Compute" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/a19a66ad-d513-4c1c-9343-5bd0ff45f780" title="AWS Educate Getting Started with Storage"><img src="https://images.credly.com/size/80x80/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" alt="AWS Educate Getting Started with Storage" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ca998fd6-bdbe-4c6a-9c89-1a78a83d3e9c" title="AWS Educate Introduction to Cloud 101"><img src="https://images.credly.com/size/80x80/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Educate Introduction to Cloud 101" width="80" height="80"></a>
