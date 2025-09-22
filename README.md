@@ -11,6 +11,7 @@
 
 ## 🎓 Certifications & Badges
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/690d74e4-5687-4df8-bae4-8b0c0fe1ff10" title="DevOps Essentials"><img src="https://images.credly.com/size/80x80/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" alt="DevOps Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/58a7c176-27bd-4b9c-b25f-d2a173a2613c" title="AWS Educate Getting Started with Networking - Training Badge"><img src="https://images.credly.com/size/80x80/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" alt="AWS Educate Getting Started with Networking - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ba5362b5-8a95-40fd-bb19-fbb51a5b262d" title="AWS Educate Getting Started with Compute - Training Badge"><img src="https://images.credly.com/size/80x80/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" alt="AWS Educate Getting Started with Compute - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/a19a66ad-d513-4c1c-9343-5bd0ff45f780" title="AWS Educate Getting Started with Storage - Training Badge"><img src="https://images.credly.com/size/80x80/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" alt="AWS Educate Getting Started with Storage - Training Badge" width="80" height="80"></a>
