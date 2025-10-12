@@ -5,7 +5,8 @@
 - CI/CD Pipelines (GitHub Actions, Jenkins)
 - Containerization & Orchestration (Docker, Kubernetes)
 - Infrastructure as Code (Terraform, Ansible)
-- Monitoring & Automation
+- Monitoring & Automation (Grafana, Prometheus)
+- Event Streaming & Messaging (Kafka)
 
 ---
 
@@ -31,7 +32,6 @@
 
 ## 🌱 Currently Learning
 - Advanced Kubernetes
-- GitHub Actions for automation
 - AWS Solutions Architect Associate prep
 
 
