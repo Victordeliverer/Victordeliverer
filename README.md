@@ -12,6 +12,7 @@
 
 ## 🎓 Certifications & Badges
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/06cc74b6-c4f8-4dc3-843a-1049afc4a02f" title="Git and GitHub Essentials"><img src="https://images.credly.com/size/80x80/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" alt="Git and GitHub Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d98da5bc-abfb-42ae-92da-7fd410bcbf9e" title="Software Engineering Essentials"><img src="https://images.credly.com/size/80x80/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" alt="Software Engineering Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9f418b85-c0e7-4a5c-8d1b-bb6046467b6c" title="Introduction to Agile Development and Scrum"><img src="https://images.credly.com/size/80x80/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png" alt="Introduction to Agile Development and Scrum" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/096f2d36-b57e-4375-9084-b004be8de6ff" title="ETL and Data Pipelines with Shell, Airflow and Kafka"><img src="https://images.credly.com/size/80x80/images/deb56de3-f26b-4b43-bdb5-ffd0ff8023ee/image.png" alt="ETL and Data Pipelines with Shell, Airflow and Kafka" width="80" height="80"></a>
