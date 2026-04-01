@@ -12,6 +12,7 @@
 
 ## 🎓 Certifications & Badges
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/871b7c03-96c3-4efd-835f-e3fe86e8c2c7" title="AWS Knowledge: Cloud Essentials - Training Badge"><img src="https://images.credly.com/size/80x80/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Knowledge: Cloud Essentials - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/6090507c-dd74-4eb9-a11f-4678cb8f508c" title="Containers & Kubernetes Essentials"><img src="https://images.credly.com/size/80x80/images/fadae326-142d-4855-a42f-f0b07e65eac1/image.png" alt="Containers & Kubernetes Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/06cc74b6-c4f8-4dc3-843a-1049afc4a02f" title="Git and GitHub Essentials"><img src="https://images.credly.com/size/80x80/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" alt="Git and GitHub Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d98da5bc-abfb-42ae-92da-7fd410bcbf9e" title="Software Engineering Essentials"><img src="https://images.credly.com/size/80x80/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" alt="Software Engineering Essentials" width="80" height="80"></a>
