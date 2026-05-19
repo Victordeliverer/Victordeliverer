@@ -12,6 +12,7 @@
 
 ## 🎓 Certifications & Badges
 <!--START_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/7615731c-e849-424f-8d43-6034b3fc4b6d)
 [![AWS Knowledge: Cloud Essentials - Training Badge](https://images.credly.com/size/80x80/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob)](https://www.credly.com/badges/871b7c03-96c3-4efd-835f-e3fe86e8c2c7)
 [![Containers & Kubernetes Essentials](https://images.credly.com/size/80x80/images/fadae326-142d-4855-a42f-f0b07e65eac1/image.png)](https://www.credly.com/badges/6090507c-dd74-4eb9-a11f-4678cb8f508c)
 [![Git and GitHub Essentials](https://images.credly.com/size/80x80/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png)](https://www.credly.com/badges/06cc74b6-c4f8-4dc3-843a-1049afc4a02f)
