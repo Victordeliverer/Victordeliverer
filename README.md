@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🚀 **DevOps Engineer** focused on building and automating scalable, reliable systems:
-- Cloud Infrastructure (AWS, Azure, GCP)
+- Cloud Infrastructure (AWS)
 - CI/CD Pipelines (GitHub Actions, Jenkins)
 - Containerization & Orchestration (Docker, Kubernetes)
 - Infrastructure as Code (Terraform, Ansible)
