@@ -12,6 +12,8 @@
 
 ## 🎓 Certifications & Badges
 <!--START_SECTION:badges-->
+[![AWS Educate Introduction to Generative AI - Training Badge](https://images.credly.com/size/80x80/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/febd0216-463a-4a2d-97cf-d9bcf5d25f7e)
+[![AWS Educate Machine Learning Foundations - Training Badge](https://images.credly.com/size/80x80/images/247efe36-9fa6-4209-ad56-0fd522283872/blob)](https://www.credly.com/badges/8ea1ca23-9511-44c3-a542-cf6f4710ce4e)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/7615731c-e849-424f-8d43-6034b3fc4b6d)
 [![AWS Knowledge: Cloud Essentials - Training Badge](https://images.credly.com/size/80x80/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob)](https://www.credly.com/badges/871b7c03-96c3-4efd-835f-e3fe86e8c2c7)
 [![Containers & Kubernetes Essentials](https://images.credly.com/size/80x80/images/fadae326-142d-4855-a42f-f0b07e65eac1/image.png)](https://www.credly.com/badges/6090507c-dd74-4eb9-a11f-4678cb8f508c)
